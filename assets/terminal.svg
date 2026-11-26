@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="342" viewBox="0 0 600 342">
+<style>
+text{font-family:'Fira Code','Cascadia Code',Consolas,'Courier New',monospace;font-size:13.5px}
+.p{fill:#7ee787;font-weight:600}.d{fill:#79c0ff;font-weight:600}.w{fill:#c9d1d9}.c{fill:#e6edf3}.o{fill:#a5d6ff}
+.cur{fill:#36bcf7;animation:blink 1s step-end infinite}
+@keyframes blink{50%{opacity:0}}
+</style>
+<defs>
+<clipPath id="c0"><rect x="0" y="54" height="26" width="0"><animate attributeName="width" values="0;0;600;600;0;0" keyTimes="0;0.0313;0.0875;0.96;0.965;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c1"><rect x="0" y="79" height="26" width="0"><animate attributeName="width" values="0;0;600;600;0;0" keyTimes="0;0.1000;0.1031;0.96;0.965;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c2"><rect x="0" y="104" height="26" width="0"><animate attributeName="width" values="0;0;600;600;0;0" keyTimes="0;0.1938;0.2500;0.96;0.965;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c3"><rect x="0" y="129" height="26" width="0"><animate attributeName="width" values="0;0;600;600;0;0" keyTimes="0;0.2625;0.2656;0.96;0.965;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c4"><rect x="0" y="154" height="26" width="0"><animate attributeName="width" values="0;0;600;600;0;0" keyTimes="0;0.3563;0.4125;0.96;0.965;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c5"><rect x="0" y="179" height="26" width="0"><animate attributeName="width" values="0;0;600;600;0;0" keyTimes="0;0.4250;0.4281;0.96;0.965;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c6"><rect x="0" y="204" height="26" width="0"><animate attributeName="width" values="0;0;600;600;0;0" keyTimes="0;0.5188;0.5750;0.96;0.965;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c7"><rect x="0" y="229" height="26" width="0"><animate attributeName="width" values="0;0;600;600;0;0" keyTimes="0;0.5875;0.5906;0.96;0.965;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c8"><rect x="0" y="254" height="26" width="0"><animate attributeName="width" values="0;0;600;600;0;0" keyTimes="0;0.6813;0.7375;0.96;0.965;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="c9"><rect x="0" y="279" height="26" width="0"><animate attributeName="width" values="0;0;600;600;0;0" keyTimes="0;0.7500;0.7531;0.96;0.965;1" dur="16s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="600" height="342" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect width="600" height="34" rx="10" fill="#161b22"/><rect y="24" width="600" height="10" fill="#161b22"/>
+<circle cx="20" cy="17" r="6" fill="#ff5f56"/><circle cx="40" cy="17" r="6" fill="#ffbd2e"/><circle cx="60" cy="17" r="6" fill="#27c93f"/>
+<text x="300" y="22" text-anchor="middle" fill="#8b949e" style="font-size:12px">alejandro@uta: ~</text>
+<text x="20" y="72" clip-path="url(#c0)"><tspan class="p">alejandro@uta</tspan><tspan class="w">:</tspan><tspan class="d">~</tspan><tspan class="w">$ </tspan><tspan class="c">whoami</tspan></text>
+<text x="20" y="97" clip-path="url(#c1)"><tspan class="o">alejandro-andrade · Full-Stack Developer · Ambato, Ecuador</tspan></text>
+<text x="20" y="122" clip-path="url(#c2)"><tspan class="p">alejandro@uta</tspan><tspan class="w">:</tspan><tspan class="d">~</tspan><tspan class="w">$ </tspan><tspan class="c">cat stack.txt</tspan></text>
+<text x="20" y="147" clip-path="url(#c3)"><tspan class="o">Angular · Spring Boot · Next.js · Supabase · Docker · Kafka</tspan></text>
+<text x="20" y="172" clip-path="url(#c4)"><tspan class="p">alejandro@uta</tspan><tspan class="w">:</tspan><tspan class="d">~</tspan><tspan class="w">$ </tspan><tspan class="c">ls proyectos/</tspan></text>
+<text x="20" y="197" clip-path="url(#c5)"><tspan class="o">ArmarioVirtual  ProyectoSOA  Node-Auth-Singleton  JuegoUnity</tspan></text>
+<text x="20" y="222" clip-path="url(#c6)"><tspan class="p">alejandro@uta</tspan><tspan class="w">:</tspan><tspan class="d">~</tspan><tspan class="w">$ </tspan><tspan class="c">cat tesis.txt</tspan></text>
+<text x="20" y="247" clip-path="url(#c7)"><tspan class="o">Trazabilidad de encomiendas con QR y modo offline</tspan></text>
+<text x="20" y="272" clip-path="url(#c8)"><tspan class="p">alejandro@uta</tspan><tspan class="w">:</tspan><tspan class="d">~</tspan><tspan class="w">$ </tspan><tspan class="c">echo $DISPONIBLE</tspan></text>
+<text x="20" y="297" clip-path="url(#c9)"><tspan class="o">true  →  abierto a oportunidades full-stack / backend</tspan></text>
+<text x="20" y="322"><tspan class="p">alejandro@uta</tspan><tspan class="w">:</tspan><tspan class="d">~</tspan><tspan class="w">$ </tspan><tspan class="cur">█</tspan></text>
+</svg>
